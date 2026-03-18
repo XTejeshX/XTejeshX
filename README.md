@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Tejesh 👋</h1>
 
 <p align="center">
-  <em>Developer · ML Enthusiast · Builder of useful things</em>
+  <em>Developer · AI ML Enthusiast · Learning and Implementing for the Future</em>
 </p>
 
 <p align="center">
@@ -14,8 +14,8 @@
 
 ### 🧑‍💻 About Me
 
-- 🌍 Based in **Visakhapatnam, Andhra Pradesh, India**
-- 🐍 Primarily code in **Python**, also working with **Java** and **CSS/HTML**
+- 🌍 Based in **Andhra Pradesh, India**
+- 🐍 Primarily code in **Python**, can also work with **Java** and **CSS/HTML**
 - 🤖 Exploring **Machine Learning** — currently working through *Hands-On ML with Scikit-Learn & TensorFlow*
 - 📊 Active on **Kaggle** — working with real-world datasets
 - 🛠️ I like building tools that solve real problems, from desktop apps to CLI utilities
