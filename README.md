@@ -217,26 +217,6 @@ An honest map of where I am and where I'm heading:
 - [ ] Contribute to an **open-source ML project** (even a small fix counts)
 
 <br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=XTejeshX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XTejeshX&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=XTejeshX&theme=tokyonight&hide_border=true" width="60%"/>
-
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=XTejeshX&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10)
-
 </div>
 
 ---
